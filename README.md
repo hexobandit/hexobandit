@@ -1,6 +1,4 @@
-👋 Hello world,
-
-Check out these cool projects:
+👋 Hello world, Check out these cool projects:
 
 - [short-ies.com](http://short-ies.com)
 - [threatbandit.com](http://threatbandit.com)
