@@ -1,4 +1,4 @@
-- 👋 Hi, We are @hexobandit(s)
+- 👋 Hello world. 
 
 <!---
 hexobandit/hexobandit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
