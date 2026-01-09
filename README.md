@@ -1,8 +1,7 @@
 👋 Hello world, Check out these cool projects:
 
 - [military-airport-tracker.com](https://military-airport-tracker.com)
-- [simplemermaid.com](http://simplemermaid.com)
-
+- [simplemermaid.com](https://simplemermaid.com)
 - [threatbandit.com](https://threatbandit.com)
 - [trackmytime.net](https://trackmytime.net)
 - [short-ies.com](https://short-ies.com)
